@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>武蔵高等学校中学校 物理部</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 04 Jan 2019 13:24:20 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<item>
+		<title>テスト投稿＆手順紹介</title>
+		<link>./../test-posting-introduction/index.html</link>
+		<pubDate>Tue, 01 Jan 2019 13:02:19 +0000</pubDate>
+		<dc:creator><![CDATA[d1211]]></dc:creator>
+				<category><![CDATA[備忘録]]></category>
+
+		<guid isPermaLink="false">./../index.html?p=45</guid>
+		<description><![CDATA[この投稿はテスト投稿です。 このウェブサイトはPC内にサーバーを構成するlocalというソフトを使って、wordpressで作っています。インターネット上に公開する為に、githubを使ってウェブサイトを公開しています。&#8230; ]]></description>
+				<content:encoded><![CDATA[<h6>この投稿はテスト投稿です。</h6>
+<h6>このウェブサイトはPC内にサーバーを構成するlocalというソフトを使って、wordpressで作っています。インターネット上に公開する為に、githubを使ってウェブサイトを公開しています。</h6>
+<h6>これは備忘録なので手順を記します。</h6>
+<h6>wordpress,localの初期設定、その他の設定はある程度調べてやって下さい。</h6>
+<h6>主要な使用ツール：wordpress local github (Google chrome) これだけあれば大体何でもできます。</h6>
+<h6>①localとwordpressを設定する。</h6>
+<h6>②wordpressに以下のプラグインを導入。(しなくても良い。)<strong><span style="color: #ff6600;">→取り敢えず保留</span></strong></h6>
+<h6><img class="alignnone size-medium wp-image-48" src="./../wp-content/uploads/2019/01/png-300x176.png" alt="" width="300" height="176" srcset="./../wp-content/uploads/2019/01/png-300x176.png 300w, ./../wp-content/uploads/2019/01/png-768x450.png 768w, ./../wp-content/uploads/2019/01/png-1024x601.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></h6>
+<hr />
+<h6>③githubに新しいリポジトリを作成(<span style="color: #ff0000;">sites.github.ioで</span>)(<span style="color: #ff0000;">URLを控えておく</span>)</h6>
+<h6>④githubデスクトップをインストール</h6>
+<h6>⑤githubデスクトップ内でどっかからログイン(忘れずに)</h6>
+<h6>⑥githubデスクトップ＞file＞clone responsibility＞<span style="color: #000000;">③のURLを張り付け</span><strong><span style="color: #ff6600;">→取り敢えず保留</span></strong></h6>
+<hr />
+<h6>⑦/②の手順の続き→wordpressの左下のSimply Static の設定を「オフラインで使用するために保存」を選択</h6>
+<h6>⑧Simply Staticの生成を選択→生成→ダウンロード</h6>
+<h6>⑨解凍して、中身を全てコピー</h6>
+<hr />
+<h6>⑩/⑥の手順の続き→githubデスクトップのopen resposibility を開き</h6>
+<hr />
+<h6>⑪/⑨の手順の続き→open responsibility 中にコピー</h6>
+<h6>⑫Summary内に何か入力。</h6>
+<h6>⑬commitクリック→Fetch Originをクリック</h6>
+<h6>⑭/③の手順の後にsettingをクリック(ログインしてないと出ません)</h6>
+<h6>⑮どっかをnoneからmaster branchに変更</h6>
+<h6>⑯URL入力(例しかあげません)</h6>
+<h6>https://github.com/musashi-physics-club/sites.github.ioを</h6>
+<h6>https://musashi-physics-club.github.io/sites.github.io/index.html</h6>
+<hr />
+<h6></h6>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
