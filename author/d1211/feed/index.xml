@@ -12,11 +12,11 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description></description>
-	<lastBuildDate>Fri, 04 Jan 2019 13:24:20 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Feb 2019 01:04:46 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.0.2</generator>
+	<generator>https://wordpress.org/?v=5.0.3</generator>
 	<item>
 		<title>テスト投稿＆手順紹介</title>
 		<link>./../../../test-posting-introduction/index.html</link>
