@@ -6,17 +6,17 @@
 	
 	>
 <channel>
-	<title> へのコメント</title>
+	<title>Hello world! へのコメント</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<link>./../index.html</link>
 	<description>武蔵高等学校中学校 物理部</description>
 	<lastBuildDate>Thu, 07 Feb 2019 05:17:19 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.0.4</generator>
 	<item>
-		<title>A WordPress Commenter より Hello world! へのコメント</title>
-		<link>./../../hello-world/index.html#comment-1</link>
+		<title>A WordPress Commenter より</title>
+		<link>./../index.html#comment-1</link>
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 07 Feb 2019 05:17:19 +0000</pubDate>
 		<guid isPermaLink="false">./../../index.html?p=1#comment-1</guid>
