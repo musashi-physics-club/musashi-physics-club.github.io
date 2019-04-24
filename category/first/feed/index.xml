@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>d1211</title>
+	<title>はじめに</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>武蔵高等学校中学校 物理部</description>
-	<lastBuildDate>Wed, 24 Apr 2019 13:59:26 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 24 Apr 2019 14:28:47 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,26 +20,22 @@
 
 <image>
 	<url>./../../../wp-content/uploads/2019/04/cropped-32152cf01d6f5f42574228636cab3d82-32x32.png</url>
-	<title>d1211</title>
+	<title>はじめに</title>
 	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Hello world!</title>
-		<link>./../../../hello-world/index.html</link>
-		<comments>./../../../hello-world/index.html#comments</comments>
-		<pubDate>Thu, 07 Feb 2019 05:17:19 +0000</pubDate>
+		<title>現在準備中です😐</title>
+		<link>./../../../now-preparing/index.html</link>
+		<pubDate>Wed, 24 Apr 2019 14:22:31 +0000</pubDate>
 		<dc:creator><![CDATA[d1211]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[はじめに]]></category>
 
-		<guid isPermaLink="false">./../../../index.html?p=1</guid>
-		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-				<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+		<guid isPermaLink="false">./../../../index.html?p=105</guid>
+		<description><![CDATA[現在、ブログの投稿予定はありません]]></description>
+				<content:encoded><![CDATA[<p>現在、ブログの投稿予定はありません</p>
 ]]></content:encoded>
-			<wfw:commentRss>./../../../hello-world/feed/index.html</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
